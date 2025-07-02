@@ -19,6 +19,7 @@ Currently juggling:
 ### 🧰 Tech Stack
 ```bash
 Languages: Python | JavaScript | C | C++ | HTML/CSS | MATLAB
+Libraries: NumPy | Pandas | Scikit-learn | TensorFlow
 Frameworks: React | Next.js | Node.js | Express | LangChain
 Tools: Git | Docker | MongoDB | VS Code | Jupyter | Arduino | Linux
 Concepts: Machine Learning | NLP | IoT | Microelectronics | Full-stack Dev
