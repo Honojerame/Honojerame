@@ -61,7 +61,7 @@ A desktop application for managing drivers, passengers, ticketing history, and a
 ### 📬 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/preciousonojerame)
 - [Portfolio](https://honojerame.github.io)
-- Email: ponojerame@unm.edu
+- Email: handsome.onojerame@enmu.edu
 
 ---
 
