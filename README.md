@@ -28,6 +28,9 @@ Concepts: Machine Learning | NLP | IoT | Microelectronics | Full-stack Dev
 ---
 
 ### 🛠️ Featured Projects
+** Stock Price Prediction (1-day Horizon)**  
+Predicts next day openening price for SPY 500 based on news headlines, and historical stock price data. Used FinBert, XGBoost Regressor, and RandomTreeForest.  
+[GitHub Repo](https://github.com/shaaronl/market-mood-to-financial-moves)
 
 **🔆 Solar Energy Forecasting with ML**  
 Predicts power output based on historical and meteorological data. Used Scikit-learn, regression models, and data normalization techniques.  
