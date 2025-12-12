@@ -7,7 +7,7 @@ Engineer by day, code whisperer by night — blending circuits and syntax at ENM
 ---
 
 ### 👤 About Me
-Hi, I’m Precious — a double major in **Computer Science** and **Electronics Engineering Technology** with a 3.95 GPA, a love for building smart things, and a knack for making tech fun and functional. Whether I’m translating ancient texts with AI or fine-tuning electromechanical systems, I’m all about turning imagination into innovation.
+Hi, I’m Precious — a double major in **Computer Science** and **Electronics Engineering Technology** with a love for building smart things, and a knack for making tech fun and functional. Whether I’m translating ancient texts with AI or fine-tuning electromechanical systems, I’m all about turning imagination into innovation.
 
 Currently juggling:
 - 🌞 Predicting solar power with machine learning (because the sun deserves analytics)
