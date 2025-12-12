@@ -28,7 +28,7 @@ Concepts: Machine Learning | NLP | IoT | Microelectronics | Full-stack Dev
 ---
 
 ### 🛠️ Featured Projects
-**Stock Price Prediction (1-day Horizon)**  
+**Stock Price Prediction (1-day Horizon)-- In association with Salesforce and Breakthrough Tech AI**  
 Predicts next day openening price for SPY 500 based on news headlines, and historical stock price data. Used FinBert, XGBoost Regressor, and RandomTreeForest.  
 [GitHub Repo](https://github.com/shaaronl/market-mood-to-financial-moves)
 
